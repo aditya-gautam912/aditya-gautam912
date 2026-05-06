@@ -36,9 +36,8 @@ Aspiring Software Developer with a focus on Java, full-stack development, proble
 
 ### [ShopEase Full Stack](https://github.com/aditya-gautam912/shopease-fullstack)
 
-Full-stack e-commerce project with product browsing, cart flow, and a deployed frontend.
+Full-stack e-commerce project with product browsing, cart flow, and a frontend.
 
-Live Demo: https://shopease-fullstack.vercel.app
 
 ### [Java Internship](https://github.com/aditya-gautam912/java-internship)
 
